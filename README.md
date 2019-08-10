@@ -1,3 +1,4 @@
 ## Bedu git
 
-1.- Primer cambio
+* Primer cambio
+* Segundo cambio
