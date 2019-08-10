@@ -9,7 +9,12 @@
 ##Table 
 
 | Nombre | Edad  | Sexo | 
-|-----|-----|----- |
+| ------------- |:-------------:| -----:|
 | Aldo  | 27  | Masculino  |
 | Aldo  | 27  | Masculino  |
 | Aldo  | 27  | Masculino  |  
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
